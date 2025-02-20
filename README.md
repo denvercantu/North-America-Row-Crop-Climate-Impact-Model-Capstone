@@ -14,3 +14,5 @@ Dashboard and random forest results are visualized in Tableau Public:
 
 https://public.tableau.com/app/profile/denver2125/viz/NorthAmericaRowCropClimateImpactStoryboard/ClimateImpactStory
 
+Included in the repository are the Jupyter notebook that includes the full process, analysis and verifications. A PDF report includes the Task 3 portion of the Capstone which is the final report for the project.
+
